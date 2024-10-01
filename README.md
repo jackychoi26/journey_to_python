@@ -3,7 +3,7 @@ This is a Python learner's cookbook. Fundamental programming knowledge is requir
 
 ## How to make the most out of it?
 VSCode is highly recommended as this is the text editor I use for this cookbook.
-You can install a Python extension and make changes to the code to see what happened.
+You can install a Python extension and make changes to the code and run the code to see what happened.
 
 ## Personal thought
 I don't quite like Python for the following reasons:
