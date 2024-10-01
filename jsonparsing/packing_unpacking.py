@@ -14,7 +14,7 @@ tuple = (number1, number2, number3)
 list = [number1, number2, number3]
 
 """
-* (Asterisk) will pack the parameters into a tuple or list.
+* (asterisk) will pack the parameters into a tuple or list.
 - * is used also for both power and multiplication. 
 """
 def sumOf(*nums):
