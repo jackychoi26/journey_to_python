@@ -1,0 +1,6 @@
+{
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+    "markdown-preview-enhanced.alwaysShowBacklinksInPreview": true,
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "markdown.extension.preview.autoShowPreviewToSide": true
+}
